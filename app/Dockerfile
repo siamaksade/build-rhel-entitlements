@@ -1,4 +1,4 @@
-FROM registry.redhat.io/ubi8/ubi:8.4
+FROM registry.access.redhat.com/ubi8/ubi:8.4
 
 ENV MYSQL_VERSION=8.0 \
     APP_DATA=/opt/app-root/src \
